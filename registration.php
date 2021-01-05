@@ -54,6 +54,8 @@ return true;
 </script>
 </head>
 <body>
+	<h1>Test</h1>
+	<h1>Test2</h1>
 	<?php include('includes/header.php');?>
 	<div class="ts-main-content">
 		<?php include('includes/sidebar.php');?>
